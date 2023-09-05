@@ -1,0 +1,12 @@
+b{
+    color:rgb(238, 94, 94);
+    font-size: 38px;
+}
+.big{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rgb(246, 233, 237);
+    position: relative;
+    top: 50px;
+}
